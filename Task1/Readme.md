@@ -22,5 +22,14 @@ MongoDB
 
 ScreenShots
 
-
+##### Adding Server 
 ![AddingServer](https://user-images.githubusercontent.com/73234020/158126625-4acafd28-6b27-4000-af10-991f793cb986.png)
+
+##### Get Servers : Here we get all the servers present in database
+
+![GetServers](https://user-images.githubusercontent.com/73234020/158126948-5c6da388-dfda-47ce-84d1-5e65168df338.png)
+
+##### Get Server By Id : Here we get only one server for the given id and if there is no server for given id then we get status as ``` 404 NOT FOUND ```
+![GetServerById](https://user-images.githubusercontent.com/73234020/158127198-03a097dc-2d2d-4753-ae83-adc39ea20a40.png)
+
+![GetServersById(404 not found)](https://user-images.githubusercontent.com/73234020/158127233-eeb4881d-e29b-42e3-8d8c-8119f9051b59.jpg)
