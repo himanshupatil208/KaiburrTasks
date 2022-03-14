@@ -1,2 +1,9 @@
-# head1
-## head2 he
+# Task 1: Java REST API Example
+
+### Technologies Used
+'''
+Java
+SpringBoot
+MongoDB
+'''
+
