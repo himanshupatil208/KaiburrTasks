@@ -15,3 +15,10 @@
 #### Performed Adding Server in Swagger UI
 ![TryingOutInSwagger](https://user-images.githubusercontent.com/73234020/158131589-79d374f6-58eb-4e0a-ad11-fe8f22dd71a5.png)
 ![TryingOutInSwagger2](https://user-images.githubusercontent.com/73234020/158131595-a0b6154b-3e98-4d89-95b0-0068e0eaeae3.png)
+
+#### Used the code form Swagger UI and Tried it on Online Editor
+
+![OnlineEditorSwagger](https://user-images.githubusercontent.com/73234020/158132378-cd0932ed-824c-490d-94f3-178223763cb6.png)
+
+
+Thank You !!!
