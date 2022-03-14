@@ -40,8 +40,17 @@ Get Server By Id
 
 ![GetServerByName](https://user-images.githubusercontent.com/73234020/158127958-034116db-7f1d-438f-91f0-19774a2be5f9.png)
 
-* #### Delete Server : Here the server gets deleted for a given id.
+```404 NOT FOUND```
+![GetServersByName(404 not found)](https://user-images.githubusercontent.com/73234020/158128985-4be3b264-7f4c-4f48-8c3f-e891b0f71077.png)
+
+
+* ##### Delete Server : Here the server gets deleted for a given id.
 ![DeleteServer](https://user-images.githubusercontent.com/73234020/158128248-bf5a1522-0f02-4961-939c-7a7e007ba737.png)
+
+* #### MongoDB database 
+![MongoDBDatabase](https://user-images.githubusercontent.com/73234020/158129122-cdf80e34-fe71-4d7f-b23c-173d0aa4ca86.png)
+
+
 
 
 
