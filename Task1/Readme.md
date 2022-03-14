@@ -16,9 +16,9 @@ MongoDB
 
 * GET servers by name ```http://127.0.0.1:2017/getServer/{name}``` Returns a list of "server" objects matching with name.
 
-* DELETE server by id ```http://127.0.0.1:2017/deleteServer/{id} Deletes a "server" object matching with id. 
+* DELETE server by id ```http://127.0.0.1:2017/deleteServer/{id}``` Deletes a "server" object matching with id. 
 
-## Testint APIs on POSTMAN
+## Testing APIs on POSTMAN
 
 ScreenShots
 
