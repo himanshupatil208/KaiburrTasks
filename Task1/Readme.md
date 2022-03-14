@@ -22,7 +22,7 @@ MongoDB
 
 ScreenShots
 
-##### Adding Server 
+* ##### Adding Server 
 ![AddingServer](https://user-images.githubusercontent.com/73234020/158126625-4acafd28-6b27-4000-af10-991f793cb986.png)
 
 ##### Get Servers : Here we get all the servers present in database
